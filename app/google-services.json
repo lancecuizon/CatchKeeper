@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "898926047692",
+    "project_id": "catchkeeper-4145e",
+    "storage_bucket": "catchkeeper-4145e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898926047692:android:17f5ddc174dad81a36ed69",
+        "android_client_info": {
+          "package_name": "com.example.catchkeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXMY8WzoOZ7-MzLT5tq3gFPHnuc1yCm4U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
